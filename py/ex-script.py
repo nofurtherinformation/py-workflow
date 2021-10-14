@@ -12,9 +12,9 @@ def main():
         df = pd.DataFrame(req.json()['integrated_county_timeseries_external_data'])
         print(df.head())
         df.to_csv(os.path.join(repo_root, f'csv/latest_cook_county.csv'),index=False)
-    except Exception:
+    except Exception as e:
         print('!!Error!!')
-        print(str(Exception))
+        print(e)
 
 if __name__ == '__main__':
     main()
