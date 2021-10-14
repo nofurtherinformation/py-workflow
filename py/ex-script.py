@@ -10,6 +10,7 @@ def main():
     try:
         req = requests.get('https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=integrated_county_timeseries_fips_17031_external')
         df = pd.DataFrame(req.json()['integrated_county_timeseries_external_data'])
+        print(df.head())
         df.to_csv(os.path.join(repo_root, f'csv/latest_cook_county.csv'),index=False)
     except Exception:
         print('!!Error!!')
