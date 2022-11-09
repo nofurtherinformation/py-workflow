@@ -1,8 +1,8 @@
 fips_code,state,state_name,county,cases_7_day_count_change,deaths_7_day_count_change,new_test_results_reported_7_day_rolling_average,percent_positive_7_day,admissions_covid_confirmed_last_7_days_per_100k_population,percent_adult_inpatient_beds_used_confirmed_covid,percent_adult_icu_beds_used_confirmed_covid,date,report_date_window_start,report_date_window_end,community_transmission_level,community_transmission_level_integer,hsa_num
-17031,IL,Illinois,Cook County,0,0,,,9.5,3.5,3.6,2022-11-05,2022-10-30,2022-11-05,,,287
-17031,IL,Illinois,Cook County,0,0,,4.65,9.7,3.5,3.8,2022-11-01,2022-10-26,2022-11-01,,,287
-17031,IL,Illinois,Cook County,0,0,,4.79,10.0,3.5,3.6,2022-11-04,2022-10-29,2022-11-04,,,287
+17031,IL,Illinois,Cook County,0,0,,,10.3,3.5,3.9,2022-11-06,2022-10-31,2022-11-06,,,287
 17031,IL,Illinois,Cook County,0,0,,4.81,9.9,3.5,3.7,2022-11-03,2022-10-28,2022-11-03,,,287
+17031,IL,Illinois,Cook County,0,0,,4.84,10.0,3.5,3.6,2022-11-04,2022-10-29,2022-11-04,,,287
+17031,IL,Illinois,Cook County,0,0,,4.89,10.2,3.5,3.7,2022-11-05,2022-10-30,2022-11-05,,,287
 17031,IL,Illinois,Cook County,0,0,0.0,,0.0,0.0,0.0,2020-01-22,2020-01-16,2020-01-22,,,287
 17031,IL,Illinois,Cook County,0,0,0.0,,0.0,0.0,0.0,2020-01-23,2020-01-17,2020-01-23,,,287
 17031,IL,Illinois,Cook County,0,0,0.0,,0.0,0.0,0.0,2020-01-24,2020-01-18,2020-01-24,,,287
@@ -346,6 +346,7 @@ fips_code,state,state_name,county,cases_7_day_count_change,deaths_7_day_count_ch
 17031,IL,Illinois,Cook County,0,0,16314.43,4.67,9.3,3.5,3.8,2022-10-27,2022-10-21,2022-10-27,,,287
 17031,IL,Illinois,Cook County,0,0,16328.71,4.63,0.0,0.0,0.0,2020-06-26,2020-06-20,2020-06-26,,,287
 17031,IL,Illinois,Cook County,0,0,16346.0,4.44,0.0,0.0,0.0,2020-06-28,2020-06-22,2020-06-28,,,287
+17031,IL,Illinois,Cook County,0,0,16384.86,4.65,9.7,3.5,3.8,2022-11-01,2022-10-26,2022-11-01,,,287
 17031,IL,Illinois,Cook County,0,0,16415.86,2.11,7.5,4.2,9.4,2021-05-28,2021-05-22,2021-05-28,,,287
 17031,IL,Illinois,Cook County,0,0,16425.0,3.68,5.9,2.1,3.8,2021-08-02,2021-07-27,2021-08-02,,,287
 17031,IL,Illinois,Cook County,0,0,16428.57,0.53,2.7,1.6,3.8,2021-06-20,2021-06-14,2021-06-20,,,287
